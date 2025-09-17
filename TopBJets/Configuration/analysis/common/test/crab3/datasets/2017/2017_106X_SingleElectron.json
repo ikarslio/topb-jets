@@ -1,0 +1,93 @@
+{
+
+  "se_run2017B": {
+    "OutputSplitFiles": 1,
+    "crab3": {
+      "Data.inputDataset": "/SingleElectron/Run2017B-UL2017_MiniAODv2-v1/MINIAOD",
+      "Data.lumiMask": "${CMSSW_BASE}/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt",
+      "Data.splitting": "LumiBased",
+      "Data.unitsPerJob": 100,
+      "JobType.maxMemoryMB": 2500,
+      "JobType.pyCfgParams": [
+        "era=2017",
+        "samplename=data",
+        "mode=se",
+        "datasetName=SingleElectron",
+        "outputFile=se_run2017B.root"
+      ]
+    }
+  },
+
+  "se_run2017C": {
+    "OutputSplitFiles": 1,
+    "crab3": {
+      "Data.inputDataset": "/SingleElectron/Run2017C-UL2017_MiniAODv2-v1/MINIAOD",
+      "Data.lumiMask": "${CMSSW_BASE}/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt",
+      "Data.splitting": "LumiBased",
+      "Data.unitsPerJob": 100,
+      "JobType.maxMemoryMB": 2500,
+      "JobType.pyCfgParams": [
+        "era=2017",
+        "samplename=data",
+        "mode=se",
+        "datasetName=SingleElectron",
+        "outputFile=se_run2017C.root"
+      ]
+    }
+  },
+
+  "se_run2017D": {
+    "OutputSplitFiles": 1,
+    "crab3": {
+      "Data.inputDataset": "/SingleElectron/Run2017D-UL2017_MiniAODv2-v1/MINIAOD",
+      "Data.lumiMask": "${CMSSW_BASE}/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt",
+      "Data.splitting": "LumiBased",
+      "Data.unitsPerJob": 100,
+      "JobType.maxMemoryMB": 2500,
+      "JobType.pyCfgParams": [
+        "era=2017",
+        "samplename=data",
+        "mode=se",
+        "datasetName=SingleElectron",
+        "outputFile=se_run2017D.root"
+      ]
+    }
+  },
+
+  "se_run2017E": {
+    "OutputSplitFiles": 1,
+    "crab3": {
+      "Data.inputDataset": "/SingleElectron/Run2017E-UL2017_MiniAODv2-v1/MINIAOD",
+      "Data.lumiMask": "${CMSSW_BASE}/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt",
+      "Data.splitting": "LumiBased",
+      "Data.unitsPerJob": 100,
+      "JobType.maxMemoryMB": 2500,
+      "JobType.pyCfgParams": [
+        "era=2017",
+        "samplename=data",
+        "mode=se",
+        "datasetName=SingleElectron",
+        "outputFile=se_run2017E.root"
+      ]
+    }
+  },
+
+  "se_run2017F": {
+    "OutputSplitFiles": 1,
+    "crab3": {
+      "Data.inputDataset": "/SingleElectron/Run2017F-UL2017_MiniAODv2-v1/MINIAOD",
+      "Data.lumiMask": "${CMSSW_BASE}/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt",
+      "Data.splitting": "LumiBased",
+      "Data.unitsPerJob": 100,
+      "JobType.maxMemoryMB": 2500,
+      "JobType.pyCfgParams": [
+        "era=2017",
+        "samplename=data",
+        "mode=se",
+        "datasetName=SingleElectron",
+        "outputFile=se_run2017F.root"
+      ]
+    }
+  }
+
+}

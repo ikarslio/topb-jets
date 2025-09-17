@@ -1,0 +1,102 @@
+{
+  "emu_run2017B": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/emu_run2017B", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/MuonEG/Run2017B-UL2017_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/emu_run2017B", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2017_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2017", 
+        "samplename=data", 
+        "mode=emu", 
+        "datasetName=MuonEG", 
+        "outputFile=emu_run2017B.root"
+      ]
+    }
+  }, 
+  "emu_run2017C": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/emu_run2017C", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/MuonEG/Run2017C-UL2017_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/emu_run2017C", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2017_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2017", 
+        "samplename=data", 
+        "mode=emu", 
+        "datasetName=MuonEG", 
+        "outputFile=emu_run2017C.root"
+      ]
+    }
+  }, 
+  "emu_run2017D": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/emu_run2017D", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/MuonEG/Run2017D-UL2017_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/emu_run2017D", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2017_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2017", 
+        "samplename=data", 
+        "mode=emu", 
+        "datasetName=MuonEG", 
+        "outputFile=emu_run2017D.root"
+      ]
+    }
+  }, 
+  "emu_run2017E": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/emu_run2017E", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/MuonEG/Run2017E-UL2017_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/emu_run2017E", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2017_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2017", 
+        "samplename=data", 
+        "mode=emu", 
+        "datasetName=MuonEG", 
+        "outputFile=emu_run2017E.root"
+      ]
+    }
+  }, 
+  "emu_run2017F": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/emu_run2017F", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/MuonEG/Run2017F-UL2017_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2017/Cert_294927-306462_13TeV_UL2017_Collisions17_GoldenJSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/emu_run2017F", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2017_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2017", 
+        "samplename=data", 
+        "mode=emu", 
+        "datasetName=MuonEG", 
+        "outputFile=emu_run2017F.root"
+      ]
+    }
+  }
+}

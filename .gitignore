@@ -1,6 +1,18 @@
-__init__.py
+# ROOT files
+*.root
+
+# Python compiled files
 *.pyc
-.*.swp
-.#*
-#*#
-*~
+__pycache__/
+
+# CMSSW build artifacts
+lib/
+tmp/
+*.so
+*.o
+.SCRAM/
+
+# Large data files
+*.dat
+*.txt
+logs/

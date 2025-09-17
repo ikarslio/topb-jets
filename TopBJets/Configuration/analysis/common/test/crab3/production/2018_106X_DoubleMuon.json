@@ -1,0 +1,82 @@
+{
+  "mumu_run2018A": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/mumu_run2018A", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/DoubleMuon/Run2018A-UL2018_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/mumu_run2018A", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2018_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2018", 
+        "samplename=data", 
+        "mode=mumu", 
+        "datasetName=DoubleMuon", 
+        "outputFile=mumu_run2018A.root"
+      ]
+    }
+  }, 
+  "mumu_run2018B": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/mumu_run2018B", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/DoubleMuon/Run2018B-UL2018_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/mumu_run2018B", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2018_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2018", 
+        "samplename=data", 
+        "mode=mumu", 
+        "datasetName=DoubleMuon", 
+        "outputFile=mumu_run2018B.root"
+      ]
+    }
+  }, 
+  "mumu_run2018C": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/mumu_run2018C", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/DoubleMuon/Run2018C-UL2018_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/mumu_run2018C", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2018_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2018", 
+        "samplename=data", 
+        "mode=mumu", 
+        "datasetName=DoubleMuon", 
+        "outputFile=mumu_run2018C.root"
+      ]
+    }
+  }, 
+  "mumu_run2018D": {
+    "OutputPrePath": "/eos/purdue/store/user/rchawla/crab/20230731/mumu_run2018D", 
+    "OutputSplitFiles": 1, 
+    "crab3": {
+      "Data.inputDataset": "/DoubleMuon/Run2018D-UL2018_MiniAODv2-v1/MINIAOD", 
+      "Data.lumiMask": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/python/Data/Run2018/Cert_314472-325175_13TeV_Legacy2018_Collisions18_JSON.txt", 
+      "Data.outLFNDirBase": "/store/user/rchawla/crab/20230731/mumu_run2018D", 
+      "Data.splitting": "LumiBased", 
+      "Data.unitsPerJob": 100, 
+      "JobType.maxMemoryMB": 2500, 
+      "JobType.psetName": "/depot/cms/top/chawla19/Topbjets/CMSSW_10_6_32/src/TopBJets/Configuration/analysis/common/test/ConfFile_cfg_2018_Data.py", 
+      "JobType.pyCfgParams": [
+        "era=2018", 
+        "samplename=data", 
+        "mode=mumu", 
+        "datasetName=DoubleMuon", 
+        "outputFile=mumu_run2018D.root"
+      ]
+    }
+  }
+}

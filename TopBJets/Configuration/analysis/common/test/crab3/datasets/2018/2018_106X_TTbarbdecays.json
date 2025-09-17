@@ -1,0 +1,18 @@
+{
+
+  "ttbarbdecays_ul2018": {
+    "OutputSplitFiles": 1,
+    "crab3": {
+      "Data.inputDataset": "/TTTo2L2Nu_CustomBdecays_TuneCP5_13TeV-powheg-pythia8/RunIISummer20UL18MiniAODv2-106X_upgrade2018_realistic_v16_L1v1-v2/MINIAODSIM",
+      "Data.splitting": "EventAwareLumiBased",
+      "Data.unitsPerJob": 100,
+      "JobType.maxMemoryMB": 800,
+      "JobType.pyCfgParams": [
+        "era=2018",
+        "samplename=ttbarbdecays",
+        "datasetName=TTTo2L2Nu_CustomBdecays_TuneCP5_13TeV-powheg-pythia8",
+        "outputFile=ttbarbdecays_ul2018.root"
+      ]
+    }
+  }
+}
